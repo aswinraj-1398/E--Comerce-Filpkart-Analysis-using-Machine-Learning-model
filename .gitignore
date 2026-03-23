@@ -1,0 +1,22 @@
+# Python project .gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*  
+
+# OS files
+.DS_Store
+Thumbs.db
